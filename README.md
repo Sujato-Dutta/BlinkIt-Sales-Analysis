@@ -32,6 +32,7 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 8.	A table was added to show all metrics by outlet type
 9.	Three filters were added including Outlet Type, Outlet Size and Item Type.
 10.	Finally, Dashboard was completed and published to Power BI.
-    
+
+![Image Alt]()    
                             
 
