@@ -33,6 +33,6 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 9.	Three filters were added including Outlet Type, Outlet Size and Item Type.
 10.	Finally, Dashboard was completed and published to Power BI.
 
-![Image Alt]()    
+![Image Alt](https://github.com/Sujato-Dutta/BlinkIt-Sales-Analysis/blob/b4493cd0cddeaa3f53828c8ac74476b99047011b/BlinkIt%20dashboard.jpg)    
                             
 
