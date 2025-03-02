@@ -33,6 +33,17 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 9.	Three filters were added including Outlet Type, Outlet Size and Item Type.
 10.	Finally, Dashboard was completed and published to Power BI.
 
+
+## Key Findings:
+1.	Items with low fat generated more sales but also had more number of items. Average sales and rating were similar for both fat categories.
+2.	Fruits, Vegetables, Snacks produced highest no of sales followed closely by household and frozen foods. Average sales were similar for the above 4 top selling 
+    categories. Fruits, Vegetables and Snacks had the most no of items sold. Ratings were almost similar for all categories.
+3.	In all types of outlets, low fat foods sold more however overall total sales and no of items were dominated by tier 3 outlets, average sales and ratings were similar for 
+    all outlets.
+4.	Total sales saw a spike for outlets established in the year 2018 but were almost constant for the rest of the period.
+5.	Medium sized outlets generated the highest sales, followed closely by small ones and least were for the ones with large size.
+6.	Outlets located in tier 3 destinations produced highest sales while tier 2 and tier 1 followed with both of them being quite close to each other.
+
 ![Image Alt](https://github.com/Sujato-Dutta/BlinkIt-Sales-Analysis/blob/b4493cd0cddeaa3f53828c8ac74476b99047011b/BlinkIt%20dashboard.jpg)    
                             
 
